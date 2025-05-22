@@ -1,44 +1,41 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Josue Flores",
+    "label": "IT Professional",
+    "picture": "https://github.com/jf40401996.png",
+    "email": "josueflores262@mail.com",
+    "phone": "713-679-4087",
+    "website": "https://jf40401996.github.io",
+    "summary": "Josue Flores is a mid career software engineer specializing in cloud technologies. He is proficent in Java, Python, and js.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "jf40401996", "url": "http://github.com/jf40401996" },
+      { "network": "linkedin", "username": "josue-flores123", "url": "http://linkedin.com/in/josue-flores123" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Cloud Techonologies" },
+    { "name": "DevOps" },
+    { "name": "Networking Security" },
+    { "name": "ML/AI" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C#", "Python", "Java", "Javascript",  "sql" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Linux", "Git/GitHub"]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Brandeis University, Waltham, MA",
+      "area": "Computer Science & Economics",
+      "studyType": "B.A.",
+      "startDate": "2015",
+      "endDate": "2020",
       "courses": [
       ]
     }
