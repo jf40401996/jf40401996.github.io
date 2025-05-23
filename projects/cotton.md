@@ -6,8 +6,9 @@ title: "cSnipe: Craigslist Scraper"
 date: 2019
 published: true
 labels:
-  - Lisp
+  - python
   - GitHub
+  - BeautifulSoup4
 summary: "Terminal based webscraper used to automatically send you craigslist listings that match a specific set of criteria (keyword, price, distance)."
 ---
 
