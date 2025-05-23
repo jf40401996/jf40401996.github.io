@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/cotton/clist.png
 title: "cSnipe: Craigslist Scraper"
 date: 2019
 published: true
