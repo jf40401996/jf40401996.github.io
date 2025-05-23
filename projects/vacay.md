@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/vacay/verified.png
 title: "VerifiedTeachers"
 date: 2015
 published: true
